@@ -1,0 +1,15 @@
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\bin\Debug\net6.0\Random Sentences Generator.exe
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\bin\Debug\net6.0\Random Sentences Generator.deps.json
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\bin\Debug\net6.0\Random Sentences Generator.runtimeconfig.json
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\bin\Debug\net6.0\Random Sentences Generator.dll
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\bin\Debug\net6.0\Random Sentences Generator.pdb
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\obj\Debug\net6.0\Random Sentences Generator.csproj.AssemblyReference.cache
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\obj\Debug\net6.0\Random Sentences Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\obj\Debug\net6.0\Random Sentences Generator.AssemblyInfoInputs.cache
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\obj\Debug\net6.0\Random Sentences Generator.AssemblyInfo.cs
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\obj\Debug\net6.0\Random Sentences Generator.csproj.CoreCompileInputs.cache
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\obj\Debug\net6.0\Random Sentences Generator.dll
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\obj\Debug\net6.0\refint\Random Sentences Generator.dll
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\obj\Debug\net6.0\Random Sentences Generator.pdb
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\obj\Debug\net6.0\Random Sentences Generator.genruntimeconfig.cache
+C:\Github\Practical Project Random Sentences Generator\PracticalProject-RandomSentencesGenerator\Random Sentences Generator\obj\Debug\net6.0\ref\Random Sentences Generator.dll
